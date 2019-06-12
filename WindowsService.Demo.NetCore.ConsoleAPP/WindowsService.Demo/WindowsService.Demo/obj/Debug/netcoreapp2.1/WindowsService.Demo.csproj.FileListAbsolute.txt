@@ -1,0 +1,11 @@
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\bin\Debug\netcoreapp2.1\WindowsService.Demo.deps.json
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\bin\Debug\netcoreapp2.1\WindowsService.Demo.runtimeconfig.json
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\bin\Debug\netcoreapp2.1\WindowsService.Demo.runtimeconfig.dev.json
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\bin\Debug\netcoreapp2.1\WindowsService.Demo.dll
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\obj\Debug\netcoreapp2.1\WindowsService.Demo.csprojAssemblyReference.cache
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\obj\Debug\netcoreapp2.1\WindowsService.Demo.csproj.CoreCompileInputs.cache
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\obj\Debug\netcoreapp2.1\WindowsService.Demo.AssemblyInfoInputs.cache
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\obj\Debug\netcoreapp2.1\WindowsService.Demo.AssemblyInfo.cs
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\bin\Debug\netcoreapp2.1\WindowsService.Demo.pdb
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\obj\Debug\netcoreapp2.1\WindowsService.Demo.dll
+C:\Users\xun73\Desktop\WindowsService.Demo\WindowsService.Demo\obj\Debug\netcoreapp2.1\WindowsService.Demo.pdb

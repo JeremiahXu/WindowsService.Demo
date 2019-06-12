@@ -1,0 +1,25 @@
+﻿正在安装程序集“C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe 程序集中应该可以找到“Yes”特性。
+正在提交程序集“C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe 程序集中应该可以找到“Yes”特性。
+没有安装程序，因此移除 InstallState 文件。
+正在卸载程序集“C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe 程序集中应该可以找到“Yes”特性。
+正在卸载程序集“C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe 程序集中应该可以找到“Yes”特性。

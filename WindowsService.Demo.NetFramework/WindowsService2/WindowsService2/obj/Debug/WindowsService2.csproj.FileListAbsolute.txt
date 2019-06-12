@@ -1,0 +1,6 @@
+C:\Users\xun73\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.CoreCompileInputs.cache
+C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\xun73\Desktop\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\xun73\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\xun73\Desktop\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb
